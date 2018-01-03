@@ -1,0 +1,9 @@
+name: AlwaysDay
+main: esqew\AlwaysDay\MainClass
+version: 1.0.0
+api: [3.0.0-ALPHA10]
+
+load: POSTWORLD
+author: Sean F. Quinn <sean@esqew.com>
+description: Keeps server time at 12noon perpetually.
+website: https://esqew.com
